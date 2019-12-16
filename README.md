@@ -1,5 +1,7 @@
                    
 ## Veri setindeki x öznitelikleri (eğitim, medeni durum, yaş vs.) ile y değişkenin (maaşın >=50K) lojistik regresyon ile tahmin edilmesi.
+
+
           
 ## LOJİSTİK REGRESYON NEDİR ?
 Bir veya birden fazla bağımsız değişkeni bulunan ve bir sonucu belirlemek için kullanılan istatistik yönetimidir. Var olan bir veri kümesinin analizi sonucu iki olası sonucu bize verir. Doğrusal sınıflandırma problemlerinde kullanılır.
