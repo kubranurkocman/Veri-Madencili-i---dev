@@ -1,1 +1,1 @@
-# Veri-Madencili-i---dev
+# Veri-Madenciligi Ödev
