@@ -1,1 +1,1 @@
-
+          LOJİSTİK REGRESYON NEDİR ?
