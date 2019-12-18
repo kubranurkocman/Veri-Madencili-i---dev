@@ -11,4 +11,4 @@ Bu örnekten yola çıkarak  lojistik regresyonun amacını şu şekilde açık
 
 
 
-
+ 
